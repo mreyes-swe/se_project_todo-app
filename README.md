@@ -1,17 +1,27 @@
 # Simple Todo App
 
-Give a brief description of the project here. Feel free to give it a different name.
+A minimalist to-do list application that allows users to create, complete, and delete tasks in a clean interface.
 
 ## Functionality
 
-Give a more detailed explanation of the project and its functionality.
+- Add new tasks
+
+- Mark tasks as complete
+
+- Remove tasks from the list
+
+This version does not include persistent storage; tasks reset on page refresh.
 
 ## Technology
 
-Give a description of the technologies and techniques used. Pictures, GIFs, or screenshots that detail the project features are recommended.
+- HTML for structure
+
+- CSS for responsive layout and styling
+
+- JavaScript with an object-oriented approach for better modularity and maintainability
 
 ## Deployment
 
 This project is deployed on GitHub Pages:
 
-- ADD LINK HERE
+- [Live on GitHub Pages](https://mreyes-swe.github.io/se_project_todo-app)
